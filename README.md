@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/camiloarce/" target="_blank">
+  <a href="https://www.linkedin.com/in/edison-jordan-alba-sarmiento-866799154/" target="_blank">
     <img
       src="https://img.shields.io/badge/-edisonalba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edison-jordan-alba-sarmiento-866799154/"
       alt="Linkedin: edisonAlbaSarmiento"
