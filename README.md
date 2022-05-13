@@ -75,18 +75,20 @@
    <img
       src="https://github-readme-stats.vercel.app/api?username=edisonAlbaSarmiento&count_private=true&show_icons=true&theme=radical"
       alt="Stats streak: edisonAlbaSarmiento"
-    />
+         width="400"
+    />&nbsp;
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=edisonAlbaSarmiento&theme=radical&date_format=M%20j%5B%2C%20Y%5D"
       alt="Stats streak: edisonAlbaSarmiento"
+      width="400"
     />
-
 </div>
 <div align="center">
-   
+  &nbsp;
   <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisonAlbaSarmiento&show_icons=true&theme=radical"
       alt="experiencie: edisonAlbaSarmiento"
+      width="300px"
     />
 </div>
  
