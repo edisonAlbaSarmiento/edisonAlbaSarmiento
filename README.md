@@ -39,8 +39,22 @@ Here are some ideas to get you started:
   </a>
 </p>
 <div align="center">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=edisonAlbaSarmiento&theme=dark&date_format=M%20j%5B%2C%20Y%5D"
+   <img
+      src="https://github-readme-stats.vercel.app/api?username=edisonAlbaSarmiento&count_private=true&show_icons=true&theme=radical"
       alt="Stats streak: edisonAlbaSarmiento"
     />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=edisonAlbaSarmiento&theme=radical&date_format=M%20j%5B%2C%20Y%5D"
+      alt="Stats streak: edisonAlbaSarmiento"
+    />
+
 </div>
+<div align="center">
+   
+  <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisonAlbaSarmiento&show_icons=true&theme=radical"
+      alt="experiencie: edisonAlbaSarmiento"
+    />
+</div>
+ 
+
