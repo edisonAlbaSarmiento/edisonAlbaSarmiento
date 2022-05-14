@@ -33,7 +33,7 @@
 
 ### 👨🏻‍💻 About Me :
 <samp>
-  <p align="center">I am a Frontend  Developer from Colombia
+  <p align="center">I am a Frontend Developer from Colombia,
     Systems Engineering pasionate about teamwork and multidisciplinary tasks. I enjoy learning from new experiences and I find challenges as something that would make me grow as a proffesional. Working in technology makes me find out different and logical ways to solve problems and propose innovative ideas that could help the team I am working with  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</p>
 </samp>
 
