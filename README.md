@@ -45,7 +45,7 @@
 - 💬 Ask me about **React, React Native and Node.**
 - 📫 How to reach me: **edi9708@hotmail.com**
 - ⚡ Fun fact: **I like videogames and like to travel** 🏍
-- 📝 [Resume](https://github.com/edisonAlbaSarmiento/edisonAlbaSarmiento/raw/master/files/edison-alba-cv.pdf)
+- 📝 [Resume](https://github.com/edisonAlbaSarmiento/edisonAlbaSarmiento/raw/main/files/edison-alba-cv.pdf)
 - 😄 Pronouns: Edi
 
 
