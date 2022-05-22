@@ -42,7 +42,7 @@
    edison.com.co
   </a>
 - 🌱 I’m currently learning **Jest and Flutter.**
-- 💬 Ask me about **React, React Native, Loopback 3 and Node.**
+- 💬 Ask me about **React, React Native, Next js,Loopback 3 and Node.**
 - 📫 How to reach me: **edi9708@hotmail.com**
 - ⚡ Fun fact: **I like videogames and like to travel** 🏍
 - 📝 [Resume](https://github.com/edisonAlbaSarmiento/edisonAlbaSarmiento/raw/main/files/edison-alba-cv.pdf)
