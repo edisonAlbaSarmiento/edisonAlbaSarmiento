@@ -92,4 +92,15 @@
     />
 </div>
  
+---
 
+### 👨🏻‍💻Connect with me:
+<div>
+  <a href="https://www.linkedin.com/in/edison-jordan-alba-sarmiento-866799154/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" **alt="Linkedin" width="40" height="40"/>
+  </a>
+   <a href=" https://www.instagram.com/edison_alba_s/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" title="instagram" **alt="instagram" width="40" height="40" color="red"/>
+  </a>
+ 
+</div>
