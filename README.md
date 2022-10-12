@@ -37,6 +37,11 @@
     Systems Engineering pasionate about teamwork and multidisciplinary tasks. I enjoy learning from new experiences and I find challenges as something that would make me grow as a proffesional. Working in technology makes me find out different and logical ways to solve problems and propose innovative ideas that could help the team I am working with  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">.</p>
 </samp>
 
+<div >
+<a href="https://app.daily.dev/edalbasa"><img   align="right" src="https://api.daily.dev/devcards/5b567f81036048cd86463cf83600959b.png?r=sx1" width="300" alt="Edison Alba 's Dev Card"/></a>
+</div>
+&nbsp;
+
 - 🔭  I’m working as a Systems Engineer and contributing to frontend for building web applications and devices mobiles.
 - 🌐  Personal Page <a href="https://edison.com.co" target="_blank">
    edison.com.co
@@ -47,7 +52,6 @@
 - ⚡ Fun fact: **I like videogames and like to travel** 🏍
 - 📝 [Resume](https://github.com/edisonAlbaSarmiento/edisonAlbaSarmiento/raw/main/files/Edison_Alba_-_Frontend_Developer.pdf)
 - 😄 Pronouns: Edi
-
 
 ---
 
@@ -102,5 +106,4 @@
    <a href="https://www.instagram.com/edison_alba_s/" target="_blank" >
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" title="instagram" **alt="instagram" width="40" height="40" s />
   </a>
- 
 </div>
