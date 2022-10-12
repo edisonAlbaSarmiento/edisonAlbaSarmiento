@@ -3,10 +3,11 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 </h1>
-
+&nbsp;
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="200"/>
+<a href="https://app.daily.dev/edalbasa"><img  src="https://api.daily.dev/devcards/5b567f81036048cd86463cf83600959b.png?r=sx1" width="300" alt="Edison Alba 's Dev Card"/></a>
 </div>
+&nbsp;
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/edison-jordan-alba-sarmiento-866799154/" target="_blank">
@@ -37,9 +38,7 @@
     Systems Engineering pasionate about teamwork and multidisciplinary tasks. I enjoy learning from new experiences and I find challenges as something that would make me grow as a proffesional. Working in technology makes me find out different and logical ways to solve problems and propose innovative ideas that could help the team I am working with  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">.</p>
 </samp>
 
-<div >
-<a href="https://app.daily.dev/edalbasa"><img   align="right" src="https://api.daily.dev/devcards/5b567f81036048cd86463cf83600959b.png?r=sx1" width="300" alt="Edison Alba 's Dev Card"/></a>
-</div>
+<img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="200"  align="right"/>
 &nbsp;
 
 - 🔭  I’m working as a Systems Engineer and contributing to frontend for building web applications and devices mobiles.
