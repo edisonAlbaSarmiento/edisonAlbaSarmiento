@@ -49,7 +49,7 @@
 - 💬 Ask me about **React, React Native, Next js,Loopback 3 and Node.**
 - 📫 How to reach me: **edi9708@hotmail.com**
 - ⚡ Fun fact: **I like videogames and like to travel** 🏍
-- 📝 [Resume](https://github.com/edisonAlbaSarmiento/edisonAlbaSarmiento/raw/main/files/Edison_Alba_-_Frontend_Developer.pdf)
+- 📝 [Resume](https://github.com/edisonAlbaSarmiento/edisonAlbaSarmiento/raw/main/files/Edison_Alba_-_Technical_Leader.pdf)
 - 😄 Pronouns: Edi
 
 ---
