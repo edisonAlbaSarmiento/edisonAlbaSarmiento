@@ -40,11 +40,11 @@
 <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="200"  align="right"/>
 &nbsp;
 
-- 🔭  I’m working as a Systems Engineer and contributing to frontend for building web applications and devices mobiles.
+- 🔭  As a Technical Leader, I deploy my experience to drive frontend development, contributing significantly to the construction of web and mobile applications.
 - 🌐  Personal Page <a href="https://edison.com.co" target="_blank">
    edison.com.co
   </a>
-- 🌱 I’m currently learning **Jest and Flutter.**
+- 🌱 I’m currently learning **Astro,Jest and Flutter.**
 - 💬 Ask me about **React, React Native, Next js,Loopback 3 and Node.**
 - 📫 How to reach me: **edi9708@hotmail.com**
 - ⚡ Fun fact: **I like videogames and like to travel** 🏍
