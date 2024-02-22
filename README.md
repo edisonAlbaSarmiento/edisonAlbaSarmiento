@@ -5,7 +5,7 @@
 </h1>
 &nbsp;
 <div id="header" align="center">
-<a href="https://app.daily.dev/edalbasa"><img  src="https://api.daily.dev/devcards/5b567f81036048cd86463cf83600959b.png?r=sx1" width="300" alt="Edison Alba 's Dev Card"/></a>
+<a href="https://app.daily.dev/edalbasa"><img src="https://api.daily.dev/devcards/v2/UjSfSNqgV.png?r=17m&type=wide" width="652" alt="Edison Alba 's Dev Card"/></a>
 </div>
 &nbsp;
 
