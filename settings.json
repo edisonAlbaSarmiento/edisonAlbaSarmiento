@@ -1,0 +1,118 @@
+{
+    "version": 2,
+    "content": {
+      "settings": {
+        "[css]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "[dart]": {
+          "editor.formatOnSave": true,
+          "editor.formatOnType": true,
+          "editor.rulers": [80],
+          "editor.selectionHighlight": false,
+          "editor.suggest.snippetsPreventQuickSuggestions": false,
+          "editor.suggestSelection": "first",
+          "editor.tabCompletion": "onlySnippets",
+          "editor.wordBasedSuggestions": "off"
+        },
+        "[dotenv]": {
+          "editor.defaultFormatter": "foxundermoon.shell-format"
+        },
+        "[html]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "[python]": {
+          "editor.formatOnType": true
+        },
+        "application.shellEnvironmentResolutionTimeout": 100,
+        "cSpell.enableFiletypes": ["json"],
+        "cSpell.patterns": [],
+        "cSpell.userWords": ["avaliable", "Succes"],
+        "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.guides.bracketPairs": true,
+        "editor.inlineSuggest.enabled": true,
+        "editor.suggestSelection": "first",
+        "emmet.includeLanguages": {
+          "javascript": "javascriptreact"
+        },
+        "eslint.format.enable": true,
+        "explorer.confirmDelete": false,
+        "files.autoSave": "onFocusChange",
+        "git.autofetch": true,
+        "git.confirmSync": false,
+        "git.ignoreMissingGitWarning": true,
+        "github.copilot.enable": {
+          "*": true,
+          "markdown": false,
+          "plaintext": false,
+          "scminput": false,
+          "yaml": false
+        },
+        "githubPullRequests.pullBranch": "never",
+        "html.format.indentInnerHtml": true,
+        "javascript.updateImportsOnFileMove.enabled": "always",
+        "json.sortOnSave.enable": true,
+        "liveServer.settings.CustomBrowser": "microsoft-edge",
+        "liveServer.settings.donotShowInfoMsg": true,
+        "liveServer.settings.donotVerifyTags": true,
+        "liveServer.settings.fullReload": true,
+        "liveServer.settings.host": "localhost",
+        "liveServer.settings.multiRootWorkspaceName": "",
+        "liveServer.settings.port": 5000,
+        "notebook.cellToolbarLocation": {
+          "default": "right",
+          "jupyter-notebook": "left"
+        },
+        "prettier.arrowParens": "always",
+        "prettier.bracketSpacing": true,
+        "prettier.embeddedLanguageFormatting": "auto",
+        "prettier.htmlWhitespaceSensitivity": "css",
+        "prettier.insertPragma": false,
+        "prettier.jsxSingleQuote": true,
+        "prettier.printWidth": 80,
+        "prettier.proseWrap": "preserve",
+        "prettier.quoteProps": "as-needed",
+        "prettier.requirePragma": false,
+        "prettier.semi": true,
+        "prettier.singleQuote": false,
+        "prettier.tabWidth": 2,
+        "prettier.trailingComma": "all",
+        "prettier.useTabs": true,
+        "prettier.vueIndentScriptAndStyle": false,
+        "screencastMode.onlyKeyboardShortcuts": true,
+        "security.workspace.trust.untrustedFiles": "open",
+        "settingsSync.ignoredExtensions": [],
+        "sync.gist": "7d8d471a4605c9b2df05effb410f5660",
+        "tabnine.experimentalAutoImports": true,
+        "typescript.updateImportsOnFileMove.enabled": "always",
+        "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+        "workbench.editorAssociations": {
+          "*.ipynb": "jupyter-notebook",
+          "*.docx": "default"
+        },
+        "workbench.iconTheme": "material-icon-theme",
+        "editor.linkedEditing": true,
+        "editor.unicodeHighlight.invisibleCharacters": false,
+        "redhat.telemetry.enabled": true,
+        "sonarlint.rules": {
+          "typescript:S6759": {
+            "level": "off"
+          }
+        },
+        "git.suggestSmartCommit": false,
+        "editor.wordWrap": "on",
+        "explorer.confirmDragAndDrop": false,
+        "editor.cursorBlinking": "expand",
+        "github.copilot.editor.enableAutoCompletions": true,
+        "git.ignoreRebaseWarning": true,
+        "gitlens.views.stashes.files.layout": "list",
+        "[scss]": {
+          "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+        }
+      }
+    }
+  }
+  
