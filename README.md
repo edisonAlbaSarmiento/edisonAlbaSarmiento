@@ -34,7 +34,7 @@
 
 ### 👨🏻‍💻 About Me :
 <samp>
-  <p align="center">I am a passionate Technology Leader and Frontend Developer from Colombia, with training in Systems Engineering. My approach focuses on collaborative work and the execution of multidisciplinary tasks. I am excited by the opportunity to learn from new experiences and consider challenges as opportunities to grow professionally. My dedication to technology goes beyond the mere execution of tasks; For me, it is a window that allows me to discover different and logical approaches to solving problems. I feel inspired by coming up with innovative ideas that not only improve my individual performance, but also contribute to the success of the team I collaborate with <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">.</p>
+  <p align="center">I am a passionate Frontend Developer from Colombia, with a background in Systems Engineering and a specialization in Project Management and Business Intelligence. My approach focuses on collaborative work and the execution of multidisciplinary tasks. I’m driven by the opportunity to learn from new experiences and consider challenges as opportunities for growth. My commitment to technology goes beyond just completing tasks — for me, it’s a window into discovering logical and creative ways to solve problems. I feel inspired by contributing innovative ideas that enhance not only my individual performance but also the success of the team I work with. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">.</p>
 </samp>
 
 <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="200"  align="right"/>
